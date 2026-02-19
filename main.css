@@ -1,0 +1,17 @@
+svg{
+    max-width: 60px;
+    fill: blue;
+}
+
+#dot{
+    fill: red;
+}
+
+svg:hover{
+    transform: scale(1.1);
+    fill:red
+}
+
+#dot:hover{
+    fill: green;
+}
